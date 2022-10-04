@@ -1,0 +1,4 @@
+- 👋 Olá, eu sou a Amanda 
+- 👀 Estou interessada em aprender programação
+- 🌱 Atualmente estou aprendendo programação 
+- 📫 amanda.albanez@escola.pr.gov.br
